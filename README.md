@@ -1,7 +1,7 @@
 # pywal-plasma-script
 Simply run the script after running your pywal. Run it with ./kde.sh NAMETHATYOUWANT
 
-###example:
+## example:
 wal - i $HOME/Wallpapers/wallpaper.png
 ./kde.sh Mynewcolorscheme
 
